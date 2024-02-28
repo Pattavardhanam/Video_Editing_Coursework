@@ -1,4 +1,4 @@
-# Introduction
+# Download and Installation of DaVinci Resolve and the media page
  Video editing is a useful skill which aids in better storytelling through better aesthetically pleasing edits, more clarity, effects, sound correction, addition of elements,trimming of unnecessary parts, etc.
 
 \
@@ -17,7 +17,7 @@
 
 \
  You should be able to see the screen that is similar to the one  below.
-![First Page](https://github.com/Pattavardhanam/Video_Editing_Coursework/blob/main/Download%20and%20Media/D&amp;M.jpeg?raw=true)
+![First Page](https://github.com/Pattavardhanam/Video_Editing_Coursework/blob/main/Download%20and%20Media/D&M.jpeg?raw=true)
  The media page or interface is used for importing the files that you would want to edit.
 
 \
@@ -41,11 +41,11 @@ DaVinci Resolve equips you with two editing interfaces, each excelling in differ
 **Imagine this:** You're crafting a captivating video. The **Edit** page becomes your meticulous sculptor, meticulously shaping each scene with precise tools like colour correction, advanced effects, and multi-track audio mixing. It's ideal for crafting intricate narratives or delivering professional-grade polish.
 
 \
-However, sometimes inspiration strikes fast. Enter the **Cut** page, your agile assembler. Quickly mark captivating moments in your footage, seamlessly string them together on a single timeline, and add impactful transitions. It's perfect for rapid social media edits, storyboarding ideas, or swiftly assembling the core structure of your project. 
+However, sometimes inspiration strikes fast. Enter the **Cut**page, your agile assembler. Quickly mark captivating moments in your footage, seamlessly string them together on a single timeline, and add impactful transitions. It's perfect for rapid social media edits, storyboarding ideas, or swiftly assembling the core structure of your project. 
 ## TASK: EDIT PAGE
 **Edit Page Foundations**
 * Interface overview and project setup
-* Importing &amp; organising media
+* Importing & organising media
 * Timeline creation and clip arrangement
 ![Edit 1](https://github.com/Pattavardhanam/Video_Editing_Coursework/blob/main/Edit%20and%20Cut/Edit.png?raw=true)
 **Editing the Essentials**
@@ -57,12 +57,12 @@ However, sometimes inspiration strikes fast. Enter the **Cut** page, your agile 
 \
 **Assignment 1:** Create a 30-second video using the Edit Page, incorporating cuts, transitions, and basic audio adjustments.
 ## TASK: CUT PAGE
-**Cut Page for Speed &amp; Efficiency**
+**Cut Page for Speed & Efficiency**
 * Cut Page interface and workflow
 * Working with the Source Tape and previewing clips
 * Smart editing tools and trimming techniques
 ![Cut](https://github.com/Pattavardhanam/Video_Editing_Coursework/blob/main/Edit%20and%20Cut/Cut.png?raw=true)
-**Polishing &amp; Exporting**
+**Polishing & Exporting**
 * Adding transitions and titles efficiently
 * Audio levels and exporting for different platforms
 
@@ -75,6 +75,11 @@ Resources:  \
 [https://www.blackmagicdesign.com/products/davinciresolve/edit](https://www.blackmagicdesign.com/products/davinciresolve/edit)
 
 [https://www.blackmagicdesign.com/products/davinciresolve/cut](https://www.blackmagicdesign.com/products/davinciresolve/cut) 
+\
+**Remember:**
+* Practice is key! Experiment and explore to solidify your understanding.
+* Utilise online resources and communities for further learning and support.
+* Most importantly, have fun and unleash your creativity!
 # Fairlight Page and Deliver
  You learned how to install and edit your video. Now, let's talk about some of the underrated aspects that can turn a good video into something marvellous and impactful, such as **Audio**. **Audio editing** is a vital skill for video production, as it can enhance the quality, clarity, and impact of your visuals.
 ![F1](https://github.com/Pattavardhanam/Video_Editing_Coursework/blob/main/Fairlight%20and%20Deliver/fairlight1.png?raw=true)
@@ -88,7 +93,7 @@ DaVinci Resolve is a powerful software and also has built in audio editor namely
 * Use Multitrack and add intro and outro music to your recording.
 * Apply Compression to even out volume variations.
 * Add Reverb for a spacious sound.
-* Learn to use fade in and fade out effects for intro &amp; outro
+* Learn to use fade in and fade out effects for intro & outro
 * Learn to Remove distortions and background noises
 * Play around with Fairlight’s vast Sound effects library and implement them into your project
 
